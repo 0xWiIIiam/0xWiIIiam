@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey there! I'm **0xWilliam** 
 
-<!--
-**0xWiIIiam/0xWiIIiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **17-year-old IT Student** | 💻 **Aspiring Programmer** | 🔒 **Cybersecurity Enthusiast**  
+🌍 Based in the **United Kingdom**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **Skills**  
+- 🖥️ **Programming**: Python, JavaScript, Lua  
+- 🛡️ **Cybersecurity**: Penetration Testing
+- 📱 **Web Development**: HTML, CSS
+
+---
+
+## 🌱 **What I’m Currently Learning**  
+- 🧬 Ethical Hacking  
+- 📡 Networking
+
+---
+
+## 🌐 **Connect with Me**  
+- 🐦 [Twitter](https://x.com/williamlukz)  
+- ☄️ [Discord](@williamlukz)  
+
+---
+
+> “_“In 15 years, we’ll be teaching programming just like reading and writing, and wondering why we didn’t do it sooner.”_” – _Mark Zuckerberg_
