@@ -24,4 +24,4 @@
 
 ---
 
-> “_“In 15 years, we’ll be teaching programming just like reading and writing, and wondering why we didn’t do it sooner.”_” – _Mark Zuckerberg_
+> “In 15 years, we’ll be teaching programming just like reading and writing, and wondering why we didn’t do it sooner.” – _Mark Zuckerberg_
