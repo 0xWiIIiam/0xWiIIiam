@@ -1,9 +1,3 @@
-```console
-0xWilliam:~$ whoami
-> Programmer from the UK with an interest in game development and cybersecurity.
+# Hi, I'm William 👋
 
-0xWilliam:~$ contact
-> - Discord: williamlukz
-> - Twitter: https://x.com/williamlukz
-> - Website: https://lukz.dev
-```
+18-year-old computing student from the UK. I enjoy **game development**, **backend systems**, and **cybersecurity**.
